@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson11-challenge-war", "lesson11-challenge-war\lesson11-challenge-war.csproj", "{D121F6C1-A64A-4121-8643-5F71D66A3CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D121F6C1-A64A-4121-8643-5F71D66A3CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D121F6C1-A64A-4121-8643-5F71D66A3CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D121F6C1-A64A-4121-8643-5F71D66A3CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D121F6C1-A64A-4121-8643-5F71D66A3CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2FDB136-7B72-4C6E-9A30-7083FE66C74C}
+	EndGlobalSection
+EndGlobal
